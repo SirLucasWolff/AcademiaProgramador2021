@@ -7,7 +7,7 @@ chamado.data = "";
 
 var chamados;
 var id;
-var cabecalho = ['id', 'titulo', 'descricao', 'equipamento', 'data'];
+var cabecalho = ['iD', 'TÍtulo', 'Descrição', 'Equipamento', 'Data'];
 
 function initList() {
     chamados = new Array();
